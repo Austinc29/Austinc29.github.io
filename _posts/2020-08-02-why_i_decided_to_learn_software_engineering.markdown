@@ -1,11 +1,11 @@
 ---
 layout: post
 title:      "Why I Decided To Learn Software Engineering"
-date:       2020-08-02 15:52:05 +0000
+date:       2020-08-02 11:52:06 -0400
 permalink:  why_i_decided_to_learn_software_engineering
 ---
 
-Growing up I've played games all the time. Even as a little 6 year old me and my dad would play games such as, Halo, Gears of War, Call of duty (when it came out), and even Resident Evil which my mom hated since there were some pretty scary zombies in that game. Even before those and the days of the Xbox, I played on the Gamecube, Playstation, Wii, Etc.. So I've grown to love games and everything that has to do with them. It wasn't until just recently that I realized how they're created, I don't know or remember how I thought they were built but a bunch of lines of code for everything in the game didn't come to mind. 
+Growing up I've played games all the time. Even as a little 6 year old, me and my dad would play games such as, Halo, Gears of War, Call of duty (when it came out), and even Resident Evil which my mom hated since there were some pretty scary zombies in that game. Even before those and the days of the Xbox, I played on the Gamecube, Playstation, Wii, Etc.. So I've grown to love games and everything that has to do with them. It wasn't until just recently that I realized how they're created, I don't know or remember how I thought they were built but a bunch of lines of code for everything in the game didn't come to mind. 
 
 So after years of playing games on console and PC, I've got a familiarity with technology. My family always looks to me when something goes wrong with their phone or computers etc.. Now I'm not an IT guy but I've always seemed to figure it out which has built some confidence around technology. 
 
